@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.joanzapata.iconify:android-iconify-typicons-2.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-iconify-typicons-2.2.2.aar/d97a11f1e0b4b8f5578f9d37fccd1049/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-iconify-typicons-2.2.2.aar/d97a11f1e0b4b8f5578f9d37fccd1049/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify-typicons/2.2.2/ef73bfb2f595a97764c337f4a89f5e5e5315c6eb/android-iconify-typicons-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

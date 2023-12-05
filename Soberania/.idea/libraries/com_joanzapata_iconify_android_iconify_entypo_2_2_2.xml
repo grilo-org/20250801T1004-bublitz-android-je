@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.joanzapata.iconify:android-iconify-entypo-2.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-iconify-entypo-2.2.2.aar/bd6d32378e14d93d4b7f112456d46025/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-iconify-entypo-2.2.2.aar/bd6d32378e14d93d4b7f112456d46025/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify-entypo/2.2.2/f2d031a7f7aa896ab3a9fd9f36f53dd0fa51ed4e/android-iconify-entypo-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
